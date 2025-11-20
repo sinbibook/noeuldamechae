@@ -107,17 +107,17 @@ class ReservationMapper extends BaseDataMapper {
     }
 
     /**
-     * 이용안내 매핑 (about section description 사용)
+     * 이용안내 매핑 (property.usageGuide 사용)
      */
     mapUsageGuide() {
-        const aboutDescription = this.safeGet(this.data, 'homepage.customFields.pages.reservation.sections.0.about.description');
-        const usageElement = this.safeSelect('[data-homepage-customfields-pages-reservation-sections-0-about-description]');
+        const usageGuide = this.safeGet(this.data, 'property.usageGuide');
+        const usageElement = this.safeSelect('[data-property-usageGuide]');
 
         if (usageElement) {
-            if (aboutDescription && aboutDescription.trim()) {
+            if (usageGuide && usageGuide.trim()) {
                 // Description을 줄바꿈으로 나누어 <p> 태그로 감싸기
-                const lines = aboutDescription.split('\n').filter(line => line.trim());
-                const htmlContent = lines.map(line => `<p class="ko-body">• ${line.trim()}</p>`).join('');
+                const lines = usageGuide.split('\n').filter(line => line.trim());
+                const htmlContent = lines.map(line => `<p class="ko-body">${line.trim()}</p>`).join('');
                 usageElement.innerHTML = htmlContent;
             } else {
                 usageElement.innerHTML = `
