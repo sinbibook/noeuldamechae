@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2025-11-20T10:16:30.309Z",
+    "version": "1.7.0",
+    "generatedAt": "2025-11-20T23:32:27.914Z",
     "templateType": "full_banner_slider",
     "propertyId": "64da6636-5e7a-4f14-93d2-841cb0830a94",
     "homepageId": "ecfcbba7-3098-4068-88e8-3e0afce3cb4a"
@@ -823,7 +823,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "26b71eb9-abf3-4b79-b05d-29bbadadfa94",
@@ -930,7 +930,8 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": " "
               },
               "closing": {
                 "title": "With the Sunset",
@@ -1040,7 +1041,8 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": ""
               },
               "about": [
                 {
