@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2025-11-20T23:32:27.914Z",
+    "version": "1.8.0",
+    "generatedAt": "2025-11-24T10:43:40.643Z",
     "templateType": "full_banner_slider",
     "propertyId": "64da6636-5e7a-4f14-93d2-841cb0830a94",
     "homepageId": "ecfcbba7-3098-4068-88e8-3e0afce3cb4a"
@@ -50,9 +50,9 @@
       "representativeName": "이소민",
       "businessAddress": "인천광역시 강화군 불은면 해안동로715번길 31-5",
       "businessPhone": "",
-      "businessEmail": "사업장 이메일",
-      "businessType": "individual",
-      "businessCategory": null,
+      "businessEmail": "",
+      "businessType": "",
+      "businessCategory": "",
       "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {

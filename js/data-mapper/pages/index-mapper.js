@@ -562,8 +562,10 @@ class IndexMapper extends BaseDataMapper {
         // Property 기반 기본 타이틀 설정
         if (property && property.name) {
             const title = document.querySelector('title');
-            if (title) {
-                title.textContent = `${property.name} - 반려견과 함께하는 애견펜션`;
+            if (title && property.subtitle) {
+                title.textContent = `${property.name} - ${property.subtitle}`;
+            } else if (title) {
+                title.textContent = property.name;
             }
         }
 
