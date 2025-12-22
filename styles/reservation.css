@@ -27,6 +27,20 @@
   padding-bottom: 15px;
 }
 
+.reservationWrap .reservationGuideSection {
+  margin-top: 20px !important;
+  background-color: rgba(255,255,255,0.6);
+  border-radius: 10px;
+  padding: 25px;
+  color: #666;
+}
+
+.reservationWrap .reservationGuideSection .sectionHeader {
+  margin-bottom: 15px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 15px;
+}
+
 .reservationWrap .checkinCheckoutSection  {
   margin-top: 20px !important;
   background-color: rgba(255,255,255,0.6);
@@ -55,7 +69,7 @@
   padding-bottom: 15px;
 }
 
-.usageRules p, .checkinCheckoutRules p, .refundRules p {
+.usageRules p, .reservationGuideRules p, .checkinCheckoutRules p, .refundRules p {
   margin-bottom: 7px !important;
 }
 .reservationWrap .tableSection {
