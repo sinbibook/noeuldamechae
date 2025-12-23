@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.15.0",
-    "generatedAt": "2025-12-22T08:59:26.670Z",
+    "version": "1.16.0",
+    "generatedAt": "2025-12-23T02:48:31.477Z",
     "templateType": "center_slider",
     "propertyId": "64da6636-5e7a-4f14-93d2-841cb0830a94",
     "homepageId": "ecfcbba7-3098-4068-88e8-3e0afce3cb4a"
@@ -817,7 +817,9 @@
       "description": "",
       "keywords": ""
     },
-    "socialLinks": {},
+    "socialLinks": {
+      "blog": "https://m.blog.naver.com/sunheebe/224112728203"
+    },
     "customFields": {
       "pages": {
         "index": {
