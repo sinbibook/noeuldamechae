@@ -159,6 +159,9 @@
         mobileMenu = document.getElementById('mobile-menu');
         mobileToggleButtons = Array.from(document.querySelectorAll('.mobile-toggle'));
 
+        // Mobile reservation button will be handled by header-footer-mapper.js
+        // No need to initialize here as it uses the same mapping as other realtime booking links
+
         desktopMenuItems = Array.from(document.querySelectorAll('.header .mainMenu > li'));
         mobileHeaderItems = Array.from(document.querySelectorAll('.mHd .mainMenu > li'));
         allMenuGroups = [desktopMenuItems, mobileHeaderItems];
