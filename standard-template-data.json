@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.25.0",
-    "generatedAt": "2026-02-09T05:25:37.126Z",
+    "version": "1.26.0",
+    "generatedAt": "2026-02-09T05:27:58.584Z",
     "templateType": "center_slider",
     "propertyId": "64da6636-5e7a-4f14-93d2-841cb0830a94",
     "homepageId": "ecfcbba7-3098-4068-88e8-3e0afce3cb4a"
@@ -79,13 +79,6 @@
         "displayOrder": 11,
         "images": [
           {
-            "id": "112f520d-663e-48d2-88cc-6bd9f21bb650",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/af2583fb-5a5f-486d-b592-89b1b660f6b0/main/1770613886399-vxxqy22ktg.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "db04c44b-71d4-409f-bdf8-8b0a9945b90e",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/af2583fb-5a5f-486d-b592-89b1b660f6b0/main/1770613886399-1kpfu2dfsmz.jpg",
             "sortOrder": 1,
@@ -100,6 +93,13 @@
             "isSelected": true
           },
           {
+            "id": "112f520d-663e-48d2-88cc-6bd9f21bb650",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/af2583fb-5a5f-486d-b592-89b1b660f6b0/main/1770613886399-vxxqy22ktg.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
             "id": "2b95ca16-8b0c-42ce-b64c-331a797f8d5f",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/af2583fb-5a5f-486d-b592-89b1b660f6b0/main/1770613886399-7v0advsiztu.jpg",
             "sortOrder": 6,
@@ -109,7 +109,7 @@
           {
             "id": "02e055a0-de5b-4a28-acb3-f9b4eae74c01",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/af2583fb-5a5f-486d-b592-89b1b660f6b0/main/1770613886399-bnkk4j3tnzo.jpg",
-            "sortOrder": 5,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true
           },
