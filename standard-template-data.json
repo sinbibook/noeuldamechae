@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.23.0",
-    "generatedAt": "2026-01-27T05:53:56.236Z",
+    "version": "1.24.0",
+    "generatedAt": "2026-02-09T05:13:28.064Z",
     "templateType": "center_slider",
     "propertyId": "64da6636-5e7a-4f14-93d2-841cb0830a94",
     "homepageId": "ecfcbba7-3098-4068-88e8-3e0afce3cb4a"
@@ -49,10 +49,10 @@
       "businessNumber": "773-02-04113",
       "representativeName": "이소민",
       "businessAddress": "인천광역시 강화군 불은면 해안동로715번길 31-5",
-      "businessPhone": "",
-      "businessEmail": "",
-      "businessType": "",
-      "businessCategory": "",
+      "businessPhone": "010-7464-1344",
+      "businessEmail": "555@naver.com",
+      "businessType": "individual",
+      "businessCategory": "숙박업",
       "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {
@@ -89,6 +89,55 @@
             "id": "e5d5e849-67e6-4f26-a750-a338d99c32f6",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/af2583fb-5a5f-486d-b592-89b1b660f6b0/main/1767597214621-ei8jvrze6r.jpg",
             "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "112f520d-663e-48d2-88cc-6bd9f21bb650",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/af2583fb-5a5f-486d-b592-89b1b660f6b0/main/1770613886399-vxxqy22ktg.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "db04c44b-71d4-409f-bdf8-8b0a9945b90e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/af2583fb-5a5f-486d-b592-89b1b660f6b0/main/1770613886399-1kpfu2dfsmz.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "cf383409-f1d2-4308-9778-3b885b25f499",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/af2583fb-5a5f-486d-b592-89b1b660f6b0/main/1770613886399-b5eb6fk4u9n.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "7939f1f4-c007-4f1c-99aa-6255753ec197",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/af2583fb-5a5f-486d-b592-89b1b660f6b0/main/1770613886398-hidho3qo52.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "2b95ca16-8b0c-42ce-b64c-331a797f8d5f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/af2583fb-5a5f-486d-b592-89b1b660f6b0/main/1770613886399-7v0advsiztu.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "02e055a0-de5b-4a28-acb3-f9b4eae74c01",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/af2583fb-5a5f-486d-b592-89b1b660f6b0/main/1770613886399-bnkk4j3tnzo.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "7fe7a573-9a95-41b3-9f78-f1b868d0f972",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/af2583fb-5a5f-486d-b592-89b1b660f6b0/main/1770613886399-krlqd1c5tdh.jpg",
+            "sortOrder": 3,
             "description": "",
             "isSelected": true
           },
@@ -1824,6 +1873,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "ecfcbba7-3098-4068-88e8-3e0afce3cb4a"
   }
 }
