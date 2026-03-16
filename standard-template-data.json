@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.32.0",
-    "generatedAt": "2026-03-10T05:24:11.127Z",
+    "version": "1.33.0",
+    "generatedAt": "2026-03-16T07:04:44.837Z",
     "templateType": "center_slider",
     "propertyId": "64da6636-5e7a-4f14-93d2-841cb0830a94",
     "homepageId": "ecfcbba7-3098-4068-88e8-3e0afce3cb4a"
@@ -1215,9 +1215,9 @@
             ],
             "slider": true,
             "enabled": true,
-            "endDate": null,
+            "endDate": "2026-03-31",
             "sortOrder": 0,
-            "startDate": null,
+            "startDate": "2026-03-16",
             "description": ""
           }
         ]
