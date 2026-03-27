@@ -465,6 +465,17 @@ body.mobile-menu-open {
   display: flex;
 }
 
+/* YBS 버튼 스타일 - 흰색 배경, 블랙 텍스트 */
+.mobile-reservation-btn.ybs-btn-container {
+  background: #fff;
+  color: #000;
+}
+
+.mobile-reservation-btn.ybs-btn-container:hover,
+.mobile-reservation-btn.ybs-btn-container:focus-visible {
+  box-shadow: 0 26px 56px rgba(0, 0, 0, 0.15);
+}
+
 /*mobile header*/
 .mHd {
   display: none;

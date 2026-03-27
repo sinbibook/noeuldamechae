@@ -50,7 +50,7 @@
 .mainIntroSection .con2Top .right .imgGrp {
   width: 100% !important;
   max-width: 700px !important;
-  height: 600px !important;
+  height: 600px;
   float: none;
   margin: 0;
   border-radius: 10px;
@@ -259,6 +259,31 @@
   .mainIntroSection .con2Bottom .right .txtGrpImg,
   .mainIntroSection .con2Bottom .left .imgGrp,
   .mainIntroSection .con2Bottom .right .imgGrp {
-    height: 300px !important;
+    height: 180px !important;
+  }
+}
+
+/* 모바일 imgGrp 높이 60% 축소 */
+@media (max-width: 1024px) {
+  .mainIntroSection .con2Top .left,
+  .mainIntroSection .con2Top .right,
+  .mainIntroSection .con2Bottom .left,
+  .mainIntroSection .con2Bottom .right {
+    height: 360px !important;
+  }
+  .mainIntroSection .con2Top .left .imgGrp,
+  .mainIntroSection .con2Top .right .imgGrp,
+  .mainIntroSection .con2Bottom .left .imgGrp,
+  .mainIntroSection .con2Bottom .right .imgGrp,
+  .mainIntroSection .imgGrp[style*="background-image"] {
+    height: 100% !important;
+    min-height: unset !important;
+  }
+  .mainIntroSection .con2Top .left .imgGrpPic,
+  .mainIntroSection .con2Top .right .imgGrpPic,
+  .mainIntroSection .con2Bottom .left .imgGrpPic,
+  .mainIntroSection .con2Bottom .right .imgGrpPic {
+    height: 100% !important;
+    min-height: unset !important;
   }
 }

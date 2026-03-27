@@ -1074,17 +1074,23 @@ input, button, a {
 }
 
 @media (max-width: 1024px) {
-  .specialsSection .specialSlider .slide {
+  .specialSlider {
+    height: 300px !important;
+    min-height: unset !important;
+  }
+  .specialSlider .slide {
     width: 100%;
-    aspect-ratio: 1 / 1; /* 모바일에서도 정사각형 유지 */
+    aspect-ratio: auto !important;
     padding: 0;
     flex: 0 0 100%;
-    height: auto; /* aspect-ratio가 높이 결정 */
+    height: 300px !important;
   }
-
-  .specialsSection .specialSlider .slider {
-    height: auto; /* 슬라이드 높이에 맞춤 */
-    width: 100%; /* JavaScript에서 동적으로 조정 */
+  .specialSlider .slide img {
+    height: 300px !important;
+  }
+  .specialSlider .slider {
+    height: 300px !important;
+    width: 100%;
   }
 }
 
@@ -1641,6 +1647,7 @@ table {
   .heroSlider {
     width: 100%;
     max-width: 100%;
+    height: 50vh !important;
     margin: clamp(2rem, 10vw, 3.5rem) auto clamp(1.25rem, 7vw, 2.5rem);
   }
   .fullPage {
@@ -1843,7 +1850,7 @@ table {
   .heroSlider {
     width: 100%;
     max-width: 100%;
-    height: clamp(320px, 80vh, 520px);
+    height: 50vh !important;
     margin: clamp(2rem, 10vw, 3.5rem) auto clamp(1.5rem, 8vw, 3rem);
     border-radius: clamp(14px, 8vw, 26px);
     box-shadow: 0 20px 60px rgba(0, 0, 0, 0.16);
@@ -1995,7 +2002,7 @@ table {
     margin-top: 0 !important;
   }
   .mainIntroSection .con2Top .left .imgGrp {
-    height: 350px !important;;
+    height: 210px !important;
     margin-top: 120px;
   }
 
@@ -2017,7 +2024,7 @@ table {
     height: 440px
   }
   .mainIntroSection .con2Bottom .right .imgGrp {
-    height: 350px !important;
+    height: 210px !important;
     margin-top: 120px;
   }
   .con2Bottom .left .txtGrpImg {
