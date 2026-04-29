@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.36.0",
-    "generatedAt": "2026-04-01T02:09:22.357Z",
+    "version": "1.37.0",
+    "generatedAt": "2026-04-29T09:14:59.332Z",
     "templateType": "center_slider",
     "propertyId": "64da6636-5e7a-4f14-93d2-841cb0830a94",
     "homepageId": "ecfcbba7-3098-4068-88e8-3e0afce3cb4a"
@@ -133,7 +133,7 @@
         "id": "f48fa6ae-a146-412c-8d19-c4778cc3b022",
         "name": "편의시설 및 서비스",
         "description": "주차장 / 와이파이 / OTT / 조적욕조 / 어메니티 안내",
-        "usageGuide": "[편의 시설 및 서비스]\n- 주차장 최대 5대까지 가능 \n- 화재감지기 / 일산화탄소감지기\n- WiFi 가능\n- OTT 이용 가능 (개인계정 사용)\n\n[조적욕조]\n- 1층 화장실 내 구비\n- 조적 욕조 크기가 커 물 받는 시간 소요됩니다. \n- 1박 시 1회 사용 가능\n\n[펜션 구비 품목]\n- 정수기, 커피머신, 발뮤다토스트기, 스타일러, 공기청정기 2대, 가습기",
+        "usageGuide": "[편의 시설 및 서비스]\n- 주차장 최대 5대까지 가능 \n- 화재감지기 / 일산화탄소감지기\n- WiFi 가능\n- OTT 이용 가능 (개인계정 사용)\n\n[조적욕조]\n▸조적 욕조는 무료 이용 가능 \n- 1층 화장실 내 구비\n- 조적 욕조 크기가 커 물 받는 시간 소요됩니다. \n- 1박 시 1회 사용 가능\n\n[펜션 구비 품목]\n- 정수기, 커피머신, 발뮤다토스트기, 스타일러, 공기청정기 2대, 가습기",
         "displayOrder": 12,
         "images": [
           {
@@ -451,18 +451,35 @@
   "rooms": [
     {
       "id": "2e2600b6-edd5-4b63-9375-0b4f583902bf",
+      "propertyId": "64da6636-5e7a-4f14-93d2-841cb0830a94",
+      "propertyName": "강화 노을담채 독채펜션",
       "name": "노을담채(신축,독채,조적욕조)",
-      "description": "침대룸 3 / 거실 2 / 화장실 3 \n복층형: \n - 1층: 침대룸A(퀸1,돌침대)+거실+주방+화장실1+조적욕조+개별바베큐장\n - 2층: 침대룸B(퀸1)+침대룸C(킹1)+작은 거실+화장실2",
+      "nameEn": "Noeuldamechae(Private)",
+      "description": "침대룸 3 / 거실 2 / 화장실 3 \n복층형: \n - 1층: 침대룸A(퀸1,돌침대)+거실+주방+화장실1+조적욕조+개별바베큐장\n - 2층: 침대룸B(퀸1)+침대룸C(킹1)+작은 거실+화장실2\n\n▸조적 욕조는 무료서비스 이용 가능 ",
       "roomInfo": "[인원추가요금 (1박기준/현장결제) ]\n- 아동(12개월 이상) /성인: 1인 20,000원\n- 유아(12개월 미만): 무료이나 인원에는 포함\n\n추가 어메니티 : 스마트 TV 2개, OTT가능, 발뮤다 토스트기, 정수기, 인덕션, 공기청정기 2, 가습기, 비데 , 스타일러",
       "usageGuide": "",
       "group": null,
       "size": 165,
+      "sizePyeong": 49.9,
       "baseOccupancy": 6,
       "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 3,
         "bathroom": 3,
-        "livingRoom": 0
+        "livingRoom": 2,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드",
@@ -496,6 +513,7 @@
         "패밀리룸"
       ],
       "status": "active",
+      "bankAccountId": "33dda74d-32e6-4184-b866-fad7184251f1",
       "images": [
         {
           "thumbnail": [
@@ -849,7 +867,11 @@
           ]
         }
       ],
-      "displayOrder": 1
+      "displayOrder": 1,
+      "createdAt": "2025-11-19T01:16:01.268Z",
+      "updatedAt": "2026-04-29T09:14:21.646Z",
+      "createdBy": "d3f6de9e-18a3-4b4a-a692-0bceecacad94",
+      "updatedBy": "d3f6de9e-18a3-4b4a-a692-0bceecacad94"
     }
   ],
   "homepage": {
@@ -990,7 +1012,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": " ",
+                "mediaType": "image",
+                "videos": []
               },
               "closing": {
                 "title": "With the Sunset",
@@ -1003,7 +1027,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "해가 지는 순간에..."
+                "description": "해가 지는 순간에...",
+                "mediaType": "image",
+                "videos": []
               },
               "essence": {
                 "title": "노을과 자연이 아름다운 이 곳",
@@ -1016,11 +1042,15 @@
                     "isSelected": true
                   }
                 ],
-                "description": "신축 독채 노을 담채에서 소중한 사람들과 함께 편안한 휴식을 누리세요."
+                "description": "신축 독채 노을 담채에서 소중한 사람들과 함께 편안한 휴식을 누리세요.",
+                "mediaType": "image",
+                "videos": []
               },
               "gallery": {
                 "title": "",
-                "images": []
+                "images": [],
+                "mediaType": "image",
+                "videos": []
               },
               "signature": {
                 "title": "",
@@ -1053,7 +1083,9 @@
                     "description": "",
                     "isSelected": false
                   }
-                ]
+                ],
+                "mediaType": "image",
+                "videos": []
               }
             }
           ]
@@ -1376,7 +1408,9 @@
             "isSelected": false,
             "category": "property_exterior"
           }
-        ]
+        ],
+        "name": "강화 노을담채 독채펜션",
+        "nameEn": "Ganghwa Noeuldamechae Private Pension"
       },
       "roomtypes": [
         {
