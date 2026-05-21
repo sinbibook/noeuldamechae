@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.39.0",
-    "generatedAt": "2026-05-18T05:12:07.340708909Z",
+    "version": "1.40.0",
+    "generatedAt": "2026-05-21T07:24:40.453136836Z",
     "templateType": "center_slider",
     "propertyId": "64da6636-5e7a-4f14-93d2-841cb0830a94",
     "homepageId": "ecfcbba7-3098-4068-88e8-3e0afce3cb4a"
@@ -980,9 +980,9 @@
       "keywords": "강화도펜션, 강화펜션, 강화도독채펜션, 강화도신축펜션, 강화도스파펜션, 강화도단체펜션, 개별바베큐"
     },
     "socialLinks": {
-      "blog": "https://m.blog.naver.com/sunheebe/224112728203",
       "facebook": null,
       "instagram": "https://www.instagram.com/noeul_damchae/",
+      "blog": "https://m.blog.naver.com/sunheebe/224112728203",
       "youtube": null
     },
     "customFields": {
