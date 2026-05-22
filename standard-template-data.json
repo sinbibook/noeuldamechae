@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.46.0",
-    "generatedAt": "2026-05-21T08:05:17.054613269Z",
+    "version": "1.47.0",
+    "generatedAt": "2026-05-22T05:23:01.999431385Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "64da6636-5e7a-4f14-93d2-841cb0830a94",
     "homepageId": "ecfcbba7-3098-4068-88e8-3e0afce3cb4a"
@@ -12,7 +12,7 @@
     "nameEn": "Ganghwa Noeuldamechae Private Pension",
     "description": "[주변 여행지]\n차량 기준 \n광성보 5분 \n옥토끼우주센터, 초지대교 10분\n전등사, 강화루지 15분\n마니산 관광지 20분\n동막해수욕장 23분\n\n주변 관광지도 함께 즐길 수 있는\n 노을담채에서 소중한 사람들(가족,친구,연인,동료)과 함께 특별한 하루를 보내세요!",
     "subtitle": "신축 독채펜션 노을담채에서 소중한 사람들과 함께 특별한 하루를 보내세요",
-    "address": "인천광역시 강화군 불은면 해안동로715번길 31-5",
+    "address": "인천 강화군 불은면 해안동로715번길 31-5",
     "latitude": 37.6801286654192,
     "longitude": 126.515923652074,
     "contactPhone": "010-2999-5006",
@@ -1735,6 +1735,15 @@
               "id": "440d186f-4d86-4a4a-a78c-3326070f4665",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ecfcbba7-3098-4068-88e8-3e0afce3cb4a/roomtype_exterior/1779349327784-6aa1mowg3b.jpg",
               "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": "2e2600b6-edd5-4b63-9375-0b4f583902bf",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "d73ac6d1-a3fa-461f-9230-ae31536efc84",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ecfcbba7-3098-4068-88e8-3e0afce3cb4a/roomtype_exterior/1779427360532-1wxa6gxh0q.jpg",
+              "sortOrder": 2,
               "description": "",
               "isSelected": true,
               "blockId": "2e2600b6-edd5-4b63-9375-0b4f583902bf",
