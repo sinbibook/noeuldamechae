@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.48.0",
-    "generatedAt": "2026-05-22T05:27:17.156453431Z",
+    "version": "1.49.0",
+    "generatedAt": "2026-05-22T06:12:18.765697315Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "64da6636-5e7a-4f14-93d2-841cb0830a94",
     "homepageId": "ecfcbba7-3098-4068-88e8-3e0afce3cb4a"
@@ -1124,7 +1124,7 @@
                     "id": "06aefc55-314c-4821-9542-8909bb3369b9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ecfcbba7-3098-4068-88e8-3e0afce3cb4a/index_gallery/1779349527780-vc90gc3dqs.jpg",
                     "sortOrder": 0,
-                    "description": " 노을",
+                    "description": "노을",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1148,7 +1148,7 @@
                     "id": "91c3cb4b-8429-464f-bc47-7d9a8e11e186",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ecfcbba7-3098-4068-88e8-3e0afce3cb4a/index_gallery/1779349527395-g8cuy8xiao.jpg",
                     "sortOrder": 3,
-                    "description": " 객실뷰",
+                    "description": "2층 거실",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1156,7 +1156,7 @@
                     "id": "5bad6298-28a8-4ca9-a314-82d73e33549d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ecfcbba7-3098-4068-88e8-3e0afce3cb4a/index_gallery/1779349527899-yizh6xf2ox.jpg",
                     "sortOrder": 4,
-                    "description": " 바베큐장",
+                    "description": "바베큐장",
                     "isSelected": true,
                     "blockId": null
                   }
