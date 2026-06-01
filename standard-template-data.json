@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.54.0",
-    "generatedAt": "2026-05-29T05:11:00.842119182Z",
+    "version": "1.55.0",
+    "generatedAt": "2026-06-01T02:39:49.647903189Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "64da6636-5e7a-4f14-93d2-841cb0830a94",
     "homepageId": "ecfcbba7-3098-4068-88e8-3e0afce3cb4a"
@@ -1004,8 +1004,8 @@
                 "title": " GANGHWA noeuldamechae PENSION",
                 "images": [
                   {
-                    "id": "aea36199-7e24-4494-bd08-704a0db6da6c",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ecfcbba7-3098-4068-88e8-3e0afce3cb4a/index_hero/1779350319648-ber2zicc92.jpg",
+                    "id": "8c294756-6f6f-46cc-a186-c299d259153e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ecfcbba7-3098-4068-88e8-3e0afce3cb4a/index_hero/1780281511103-47mbcfa6fz.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -1020,16 +1020,16 @@
                     "blockId": null
                   },
                   {
-                    "id": "5665c918-21de-48ce-8d5a-d295ea078cf8",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ecfcbba7-3098-4068-88e8-3e0afce3cb4a/index_hero/1779350319642-cwn360gan9.jpg",
+                    "id": "f826907b-fb1d-4ad3-a042-48c1d2e12b35",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ecfcbba7-3098-4068-88e8-3e0afce3cb4a/index_hero/1779350319862-y3qie8heur.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "f826907b-fb1d-4ad3-a042-48c1d2e12b35",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ecfcbba7-3098-4068-88e8-3e0afce3cb4a/index_hero/1779350319862-y3qie8heur.jpg",
+                    "id": "58ea5a12-26ff-4fa6-a9db-1fae78acbdb5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ecfcbba7-3098-4068-88e8-3e0afce3cb4a/index_hero/1780281511103-60v3f0ry1o.jpg",
                     "sortOrder": 3,
                     "description": "",
                     "isSelected": true,
@@ -1129,9 +1129,17 @@
                 "title": "Preview",
                 "images": [
                   {
+                    "id": "2b0112ff-504f-43dd-92ed-78a8fb896357",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ecfcbba7-3098-4068-88e8-3e0afce3cb4a/index_gallery/1780281554401-7tyj2xag80.jpg",
+                    "sortOrder": 0,
+                    "description": "외경",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
                     "id": "06aefc55-314c-4821-9542-8909bb3369b9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ecfcbba7-3098-4068-88e8-3e0afce3cb4a/index_gallery/1779349527780-vc90gc3dqs.jpg",
-                    "sortOrder": 0,
+                    "sortOrder": 1,
                     "description": "노을",
                     "isSelected": true,
                     "blockId": null
@@ -1139,16 +1147,8 @@
                   {
                     "id": "3c24627f-b6f4-4103-bdf3-090773dea2f2",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ecfcbba7-3098-4068-88e8-3e0afce3cb4a/index_gallery/1779349527301-56a96qp7se.jpg",
-                    "sortOrder": 1,
-                    "description": "테라스 ",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "f4cdf2b7-2c0d-422e-b9b8-fb70013223ac",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ecfcbba7-3098-4068-88e8-3e0afce3cb4a/index_gallery/1779349527480-wn0kdr3kqh.jpg",
                     "sortOrder": 2,
-                    "description": "외경 ",
+                    "description": "테라스 ",
                     "isSelected": true,
                     "blockId": null
                   },
