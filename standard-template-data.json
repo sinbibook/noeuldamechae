@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.60.0",
-    "generatedAt": "2026-07-24T08:52:52.878787119Z",
+    "version": "1.61.0",
+    "generatedAt": "2026-07-24T09:01:38.488567274Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "64da6636-5e7a-4f14-93d2-841cb0830a94",
     "homepageId": "ecfcbba7-3098-4068-88e8-3e0afce3cb4a"
@@ -814,8 +814,8 @@
       "title": "강화 노을담채 독채펜션",
       "description": "노을과 자연이 아름다운 이 곳, 강화 노을담채 독채펜션",
       "keywords": "강화도펜션, 강화펜션, 강화도독채펜션, 강화도신축펜션, 강화도스파펜션, 강화도단체펜션, 개별바베큐",
-      "naverSiteVerification": null,
-      "googleSiteVerification": null
+      "naverSiteVerification": "",
+      "googleSiteVerification": ""
     },
     "socialLinks": {
       "facebook": null,
@@ -1187,6 +1187,27 @@
             "enabled": true,
             "endDate": null,
             "sortOrder": 0,
+            "startDate": null,
+            "description": ""
+          },
+          {
+            "id": "62a7999b-aa5a-4d0b-9639-26bc7216a6e4",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "6911b208-2124-4f26-ac57-3ae0b687c303",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ecfcbba7-3098-4068-88e8-3e0afce3cb4a/popup/1784883696432-lozbv7wl9o.jpg",
+                "sortOrder": 2,
+                "description": "",
+                "isSelected": true,
+                "blockId": "62a7999b-aa5a-4d0b-9639-26bc7216a6e4"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": null,
+            "sortOrder": 1,
             "startDate": null,
             "description": ""
           }
